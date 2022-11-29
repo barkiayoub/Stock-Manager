@@ -1,2 +1,2 @@
-# Gestion_stock
-Systeme de gestion de stock
+# Stock_Manager
+Stock management systeme using PHP 8, MYSQL and BOOTSTRAP.
